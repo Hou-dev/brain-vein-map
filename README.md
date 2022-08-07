@@ -1,5 +1,6 @@
-# brain-vein-map
-This was a collaborative project in a numerical methods class to map a vein
+# Brain Vein Map
+## This was a collaborative project in a numerical methods class to map a vein and a written up of how the math was used interpolate from broken data and smoothed.
+
 ![Numerical Method Report1024_1](https://user-images.githubusercontent.com/59487209/183006489-8bc77363-7836-4a99-b7f6-9ae9d57626d4.jpg)
 ![Numerical Method Report1024_2](https://user-images.githubusercontent.com/59487209/183006490-4aa1f32a-4d25-4c72-a2c2-7cdd0e8650e7.jpg)
 ![Numerical Method Report1024_3](https://user-images.githubusercontent.com/59487209/183006491-d655a387-eb7d-4b96-a609-1d839905dc73.jpg)
